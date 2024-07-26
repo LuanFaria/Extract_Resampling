@@ -22,4 +22,4 @@ Install Libs:
  -Numpy.
  
 ~~~
-Mais informações sobre a utilização ~~~~Ler o arquivo PDF
+Mais informações sobre a utilização ~Ler o arquivo PDF
