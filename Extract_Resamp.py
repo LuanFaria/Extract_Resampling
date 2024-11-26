@@ -9,8 +9,8 @@ from rasterio.enums import Resampling
 import pandas as pd
 
 # INPUTS
-raiz = "X:/Sigmagis/Projetos/COCAL/NDVI/2024/NOV/"
-nome_base_ndvi = 'BASE_COCAL_NDVI_2025.shp'
+raiz = "caminho/root"
+nome_base_ndvi = 'nome_do_shp.shp'
 #PASTA_NDVI = "X:/Sigmagis/Projetos/Grupo Clealco/NDVI/BERNARDO IDE/NDVI/"
 
 img_=int(input('\n [1] - Sentinel\n [2] - Landsat\n'))
