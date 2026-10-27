@@ -7,7 +7,7 @@ from pyproj import Transformer
 import numpy as np
 from rasterio.enums import Resampling
 import pandas as pd
-
+##
 # INPUTS
 raiz = "caminho/root"
 nome_base_ndvi = 'nome_do_shp.shp'
